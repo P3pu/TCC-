@@ -18,6 +18,7 @@
 
 body {
   background: var(--Background);
+  overflow-x: hidden
 }
 
 /*---------------------HEADER----------------------------------------------------- */
